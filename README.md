@@ -1,7 +1,6 @@
-<h1> CarbonSH_CLI </h1>
 <h2 >Program to turn code into beautified code and save as a picture </h2>
 
-<h2><strong>******** How It Works ******** </h2></strong>
+<h2><strong>    How It Works      </h2></strong>
 <ol>
   <li>Input filename of a codefile .</li>
 </ol>
