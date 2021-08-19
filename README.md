@@ -1,6 +1,11 @@
 <h2 >Program to turn code into beautified code and save as a picture </h2>
 
-<h2><strong>    How It Works      </h2></strong>
+<ul>
+  <li>
+    <h2><strong>    How It Works      </h2></strong>
+  </li>
+</ul>
+
 <ol>
   <li>Input filename of a codefile .</li>
 </ol>
