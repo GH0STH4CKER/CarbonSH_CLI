@@ -12,7 +12,7 @@
   <li>And get a screenshot of the code in webpage carbon.now.sh</li>
   <li>Finally crops out white space and save the image file.</li>
 </ol>
-</br>
+
 <h2> Sample Generated Image : </h2>
 <img src='https://user-images.githubusercontent.com/62290930/130054740-613e9a77-2c73-4267-9929-540098428c29.png' width='400px' >
 
