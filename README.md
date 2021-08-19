@@ -14,6 +14,6 @@
 </ol>
 </br>
 <h2> Sample Generated Image : </h2>
-![carbonSH_2021-08-19_15-53-34](https://user-images.githubusercontent.com/62290930/130054740-613e9a77-2c73-4267-9929-540098428c29.png)
+!(https://user-images.githubusercontent.com/62290930/130054740-613e9a77-2c73-4267-9929-540098428c29.png)
 
 
