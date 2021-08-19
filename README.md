@@ -13,5 +13,7 @@
   <li>Finally crops out white space and save the image file.</li>
 </ol>
 </br>
-![carbonSH_2021-08-19_15-53-34](https://user-images.githubusercontent.com/62290930/130053234-feb75bca-19fe-408a-8049-d0293bc1cd92.png)
+<h2> Sample Generated Image : </h2>
+![carbonSH_2021-08-19_15-53-34](https://user-images.githubusercontent.com/62290930/130054740-613e9a77-2c73-4267-9929-540098428c29.png)
+
 
